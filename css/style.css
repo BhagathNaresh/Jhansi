@@ -433,3 +433,14 @@ font-family: 'Lobster', cursive;
     opacity: 1;
   }
 }
+
+footer{
+  background-color: #e6e6ea;
+  text-align: center;
+}
+
+footer p{
+  padding: 2rem 0;
+}
+
+
